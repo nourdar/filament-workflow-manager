@@ -1,14 +1,11 @@
 {
-    "name": "heloufir/filament-workflow-manager",
+    "name": "nourdar/filament-workflow-manager",
     "description": "Manage your own workflows with filament",
     "keywords": [
         "filament",
         "workflow"
     ],
     "homepage": "https://github.com/heloufir/filament-workflow-manager",
-    "require": {
-        "filament/filament": "^3.0"
-    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
